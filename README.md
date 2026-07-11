@@ -45,7 +45,7 @@ I'm continuously learning and building projects in data analytics, with a focus 
 
 📫 Feel free to connect with me on LinkedIn or explore my other projects on GitHub.
 
-##### Acknowledgements
+#### Acknowledgements
 
 This project was completed by following the Data Warehouse Project tutorial created by **Data with Baraa**.
 
